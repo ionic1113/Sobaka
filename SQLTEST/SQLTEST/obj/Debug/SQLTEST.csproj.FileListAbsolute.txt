@@ -1,0 +1,10 @@
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\bin\Debug\SQLTEST.exe.config
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\bin\Debug\SQLTEST.exe
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\bin\Debug\SQLTEST.pdb
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\obj\Debug\SQLTEST.csprojAssemblyReference.cache
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\obj\Debug\SQLTEST.Form1.resources
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\obj\Debug\SQLTEST.Properties.Resources.resources
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\obj\Debug\SQLTEST.csproj.GenerateResource.cache
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\obj\Debug\SQLTEST.csproj.CoreCompileInputs.cache
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\obj\Debug\SQLTEST.exe
+C:\Users\iaros\source\repos\SQLTEST\SQLTEST\obj\Debug\SQLTEST.pdb
